@@ -1,0 +1,16 @@
+/home/alex/revature/training_code/w1/hellocsharp/bin/Debug/net5.0/hellocsharp
+/home/alex/revature/training_code/w1/hellocsharp/bin/Debug/net5.0/hellocsharp.deps.json
+/home/alex/revature/training_code/w1/hellocsharp/bin/Debug/net5.0/hellocsharp.runtimeconfig.json
+/home/alex/revature/training_code/w1/hellocsharp/bin/Debug/net5.0/hellocsharp.runtimeconfig.dev.json
+/home/alex/revature/training_code/w1/hellocsharp/bin/Debug/net5.0/hellocsharp.dll
+/home/alex/revature/training_code/w1/hellocsharp/bin/Debug/net5.0/ref/hellocsharp.dll
+/home/alex/revature/training_code/w1/hellocsharp/bin/Debug/net5.0/hellocsharp.pdb
+/home/alex/revature/training_code/w1/hellocsharp/obj/Debug/net5.0/hellocsharp.csproj.AssemblyReference.cache
+/home/alex/revature/training_code/w1/hellocsharp/obj/Debug/net5.0/hellocsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/revature/training_code/w1/hellocsharp/obj/Debug/net5.0/hellocsharp.AssemblyInfoInputs.cache
+/home/alex/revature/training_code/w1/hellocsharp/obj/Debug/net5.0/hellocsharp.AssemblyInfo.cs
+/home/alex/revature/training_code/w1/hellocsharp/obj/Debug/net5.0/hellocsharp.csproj.CoreCompileInputs.cache
+/home/alex/revature/training_code/w1/hellocsharp/obj/Debug/net5.0/hellocsharp.dll
+/home/alex/revature/training_code/w1/hellocsharp/obj/Debug/net5.0/ref/hellocsharp.dll
+/home/alex/revature/training_code/w1/hellocsharp/obj/Debug/net5.0/hellocsharp.pdb
+/home/alex/revature/training_code/w1/hellocsharp/obj/Debug/net5.0/hellocsharp.genruntimeconfig.cache
