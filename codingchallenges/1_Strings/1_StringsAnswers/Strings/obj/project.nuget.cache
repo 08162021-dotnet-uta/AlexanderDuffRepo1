@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tz67Yu275Ag+iN7Y8o80zRtFSyR04dRmolMwgliGfSozRXyFN4HCA8oi+doMey9GHJIPgOy9R5FpxxrJNTa8Tg==",
+  "success": true,
+  "projectFilePath": "/home/alex/revature/alex_repo/codingchallenges/1_Strings/1_StringsAnswers/Strings/Strings.csproj",
+  "expectedPackageFiles": [
+    "/home/alex/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.18/microsoft.netcore.app.host.linux-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
