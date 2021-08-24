@@ -3526,11 +3526,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alex/revature/08162021-batch-repo/codingchallenges/1_Strings/1_Strings/Tests.Strings/Tests.Strings.csproj",
+      "projectUniqueName": "/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_Strings/Tests.Strings/Tests.Strings.csproj",
       "projectName": "Tests.Strings",
-      "projectPath": "/home/alex/revature/08162021-batch-repo/codingchallenges/1_Strings/1_Strings/Tests.Strings/Tests.Strings.csproj",
+      "projectPath": "/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_Strings/Tests.Strings/Tests.Strings.csproj",
       "packagesPath": "/home/alex/.nuget/packages/",
-      "outputPath": "/home/alex/revature/08162021-batch-repo/codingchallenges/1_Strings/1_Strings/Tests.Strings/obj/",
+      "outputPath": "/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_Strings/Tests.Strings/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/alex/.nuget/NuGet/NuGet.Config"
@@ -3545,8 +3545,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/home/alex/revature/08162021-batch-repo/codingchallenges/1_Strings/1_Strings/Strings/Strings.csproj": {
-              "projectPath": "/home/alex/revature/08162021-batch-repo/codingchallenges/1_Strings/1_Strings/Strings/Strings.csproj"
+            "/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_Strings/Strings/Strings.csproj": {
+              "projectPath": "/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_Strings/Strings/Strings.csproj"
             }
           }
         }

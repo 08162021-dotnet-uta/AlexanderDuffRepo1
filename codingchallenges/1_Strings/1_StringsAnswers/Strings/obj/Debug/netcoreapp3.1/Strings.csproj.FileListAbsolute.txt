@@ -12,3 +12,17 @@
 /home/alex/revature/alex_repo/codingchallenges/1_Strings/1_StringsAnswers/Strings/obj/Debug/netcoreapp3.1/Strings.dll
 /home/alex/revature/alex_repo/codingchallenges/1_Strings/1_StringsAnswers/Strings/obj/Debug/netcoreapp3.1/Strings.pdb
 /home/alex/revature/alex_repo/codingchallenges/1_Strings/1_StringsAnswers/Strings/obj/Debug/netcoreapp3.1/Strings.genruntimeconfig.cache
+/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_StringsAnswers/Strings/bin/Debug/netcoreapp3.1/Strings
+/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_StringsAnswers/Strings/bin/Debug/netcoreapp3.1/Strings.deps.json
+/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_StringsAnswers/Strings/bin/Debug/netcoreapp3.1/Strings.runtimeconfig.json
+/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_StringsAnswers/Strings/bin/Debug/netcoreapp3.1/Strings.runtimeconfig.dev.json
+/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_StringsAnswers/Strings/bin/Debug/netcoreapp3.1/Strings.dll
+/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_StringsAnswers/Strings/bin/Debug/netcoreapp3.1/Strings.pdb
+/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_StringsAnswers/Strings/obj/Debug/netcoreapp3.1/Strings.csproj.AssemblyReference.cache
+/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_StringsAnswers/Strings/obj/Debug/netcoreapp3.1/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_StringsAnswers/Strings/obj/Debug/netcoreapp3.1/Strings.AssemblyInfoInputs.cache
+/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_StringsAnswers/Strings/obj/Debug/netcoreapp3.1/Strings.AssemblyInfo.cs
+/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_StringsAnswers/Strings/obj/Debug/netcoreapp3.1/Strings.csproj.CoreCompileInputs.cache
+/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_StringsAnswers/Strings/obj/Debug/netcoreapp3.1/Strings.dll
+/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_StringsAnswers/Strings/obj/Debug/netcoreapp3.1/Strings.pdb
+/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_StringsAnswers/Strings/obj/Debug/netcoreapp3.1/Strings.genruntimeconfig.cache

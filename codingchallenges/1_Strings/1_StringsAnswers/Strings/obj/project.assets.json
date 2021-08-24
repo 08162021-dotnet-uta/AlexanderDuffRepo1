@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alex/revature/alex_repo/codingchallenges/1_Strings/1_StringsAnswers/Strings/Strings.csproj",
+      "projectUniqueName": "/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_StringsAnswers/Strings/Strings.csproj",
       "projectName": "Strings",
-      "projectPath": "/home/alex/revature/alex_repo/codingchallenges/1_Strings/1_StringsAnswers/Strings/Strings.csproj",
+      "projectPath": "/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_StringsAnswers/Strings/Strings.csproj",
       "packagesPath": "/home/alex/.nuget/packages/",
-      "outputPath": "/home/alex/revature/alex_repo/codingchallenges/1_Strings/1_StringsAnswers/Strings/obj/",
+      "outputPath": "/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_StringsAnswers/Strings/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/alex/.nuget/NuGet/NuGet.Config"

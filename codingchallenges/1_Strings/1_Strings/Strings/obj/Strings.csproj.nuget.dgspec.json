@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/alex/revature/08162021-batch-repo/codingchallenges/1_Strings/1_Strings/Strings/Strings.csproj": {}
+    "/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_Strings/Strings/Strings.csproj": {}
   },
   "projects": {
-    "/home/alex/revature/08162021-batch-repo/codingchallenges/1_Strings/1_Strings/Strings/Strings.csproj": {
+    "/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_Strings/Strings/Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alex/revature/08162021-batch-repo/codingchallenges/1_Strings/1_Strings/Strings/Strings.csproj",
+        "projectUniqueName": "/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_Strings/Strings/Strings.csproj",
         "projectName": "Strings",
-        "projectPath": "/home/alex/revature/08162021-batch-repo/codingchallenges/1_Strings/1_Strings/Strings/Strings.csproj",
+        "projectPath": "/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_Strings/Strings/Strings.csproj",
         "packagesPath": "/home/alex/.nuget/packages/",
-        "outputPath": "/home/alex/revature/08162021-batch-repo/codingchallenges/1_Strings/1_Strings/Strings/obj/",
+        "outputPath": "/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_Strings/Strings/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/alex/.nuget/NuGet/NuGet.Config"

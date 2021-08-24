@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FhLRH5nAwxxDgIFp+/NiVTeUG7MXEUEh5NouNbidPepoaTSbSC1lB1j1LeuGvoS6zCGQpdgCwRFRMCouj7pIAg==",
+  "dgSpecHash": "Ty6zj/kXst9R2BUoHrg/iiEvkdzRSiVi//IczBnoipO1UrOLOnZf+RPPjmSB615cdMkECFpQmAr0cbcFBVrhUw==",
   "success": true,
-  "projectFilePath": "/home/alex/revature/08162021-batch-repo/codingchallenges/1_Strings/1_Strings/Tests.Strings/Tests.Strings.csproj",
+  "projectFilePath": "/home/alex/revature/newRepo/AlexanderDuffRepo1/codingchallenges/1_Strings/1_Strings/Tests.Strings/Tests.Strings.csproj",
   "expectedPackageFiles": [
     "/home/alex/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",
     "/home/alex/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",
